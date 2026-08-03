@@ -1,4 +1,4 @@
-import { Popover } from './popover';
+import { Popover } from './Popover';
 
 const popovers = new Map();
 const buttons = document.querySelectorAll('.popover-trigger');
